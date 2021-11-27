@@ -1,13 +1,12 @@
-# Welcome to MkDocs
+# Mixed Reality in Education
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my final year project repository. This project is looking into the application of Mixed Reality (MR) using the Microsoft Hololens 2 in education, particularly training programmes.
 
-## Commands
+## Firefighting Training Simulation App
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This app will try to apply MR in assisting firefighting training programmes in the form of a Firefighting Training Simulation(FTS).
+
+
 
 ## Project layout
 
